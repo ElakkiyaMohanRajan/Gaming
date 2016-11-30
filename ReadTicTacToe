@@ -1,0 +1,9 @@
+Created the TicTacToe Game using a single array in Go language in Atom Text Editor
+Pelase down the Atom Text editor from Google using https://atom.io/ link
+Run the program in the command prompt in the specific path you have stored the TicTacToe file
+Then run the game as go run TicTacToe.go then press enter
+It will ask the human to enter the numbers from 1 to 9 indication the 3*3 table as below
+---
+---
+---
+Continue to enter until the game is either win or draw
