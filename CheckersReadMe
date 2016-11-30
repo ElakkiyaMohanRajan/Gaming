@@ -1,0 +1,15 @@
+Created the Checkers Game using a single array in Go language in Atom Text Editor
+Pelase down the Atom Text editor from Google using https://atom.io/ link
+Run the program in the command prompt in the specific path you have stored the Checkers file
+Then run the game as go run checkers.go then press enter
+It will ask the human to enter the numbers from which position it wants to move and then to which position it wants to move
+indication the 8*8 table as below, the numbers starts from 1 till 64
+--------
+--------
+--------
+--------
+--------
+--------
+--------
+--------
+Continue to enter until the game is either win or draw
